@@ -1,0 +1,42 @@
+*{
+	padding:0;
+	margin:0;
+}
+
+#title{
+	height: 10%;
+	width:50%;
+	text-align:center;
+	margin-top:1%;
+	border-radius:0 10px 10px 0;
+	background-color:black;
+	position:fixed;
+	color:white;
+	float:right;
+}
+
+#menuItem{
+	height: 5%;
+	width:30%;
+	text-align:center;
+	margin-top:1%;
+	border-radius:10px 0 0 10px;
+	background-color:grey;
+	position:fixed;
+	color:white;
+	float:right;
+	right:0;
+}
+
+#gallery{
+	position:fixed;
+	height: 50%;
+	width:100%;
+	background:black;
+	color:white;
+	top:90%;
+}
+
+#titleText{
+	padding:auto;
+}
