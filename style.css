@@ -19,13 +19,11 @@
 	height: 5%;
 	width:30%;
 	text-align:center;
-	margin-top:1%;
+	margin:1% 0 0 70%;
 	border-radius:10px 0 0 10px;
 	background-color:grey;
-	position:fixed;
 	color:white;
-	float:right;
-	right:0;
+	float:clear;
 }
 
 #gallery{
@@ -39,4 +37,8 @@
 
 #titleText{
 	padding:auto;
+}
+
+.math{
+	float:clear;
 }

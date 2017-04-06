@@ -1,0 +1,17 @@
+version 1.0
+	Created base site
+	added title bar
+	gallery bar
+	play button
+	implemented expand on click for the gallery bar
+	
+day 2
+	started work on math function
+day 3
+	page was to cluttered
+	created a secondary page to work solely on the function
+	basic creat problem function completed - does not work
+	turns out issue was with typo
+day 4
+	create a webpage to expirement with creating buttons
+	buttons not working: creating text but not ghtmls
